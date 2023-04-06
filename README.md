@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Teltek**
 
-- 🌱 A día de hoy estoy aprendiendo **C / C++**
+- 🌱 A día de hoy estoy aprendiendo **Java**
 
 - 👨‍💻 Portafolio de Iago [https://iagofernandezblanco.github.io/mi-portafolio/](https://iagofernandezblanco.github.io/mi-portafolio/)
 
