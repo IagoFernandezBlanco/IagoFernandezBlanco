@@ -9,7 +9,9 @@
 
 - 💬 Pregúntame sobre **Java, Linux, Docker, Ansible**
 
-- 📫 Para contactar conmigo **ifernandezblanco08@outlook.com**
+- 📫 Para contactar conmigo:
+  Correo principal: **ifernandezblanco08@outlook.com** 
+  Correo secundario: **anachain1998@gmail.com**
 
 <h3 align="left">Contacta conmigo (Añadiendo más herramientas para contactar conmigo):</h3>
 <p align="left">
