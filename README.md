@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Iago Fernández Blanco.</h1>
-<h3 align="center">Soy desarrollador backend.</h3>
+<h3 align="center">Soy desarrollador backend especializado en Java pero con miras a otros lengaujes.</h3>
 
 - 🔭 Actualmente estoy trabajando en **Teltek**
 
@@ -10,8 +10,8 @@
 - 💬 Pregúntame sobre **Java, Linux, Docker, Ansible**
 
 - 📫 Para contactar conmigo:
-  <p>Correo principal: **ifernandezblanco08@outlook.com**</p>
-  <p>Correo secundario: **anachain1998@gmail.com** </p>
+  <p> Correo principal: ifernandezblanco08@outlook.com</p>
+  <p>Correo secundario: anachain1998@gmail.com </p>
 
 <h3 align="left">Contacta conmigo (Añadiendo más herramientas para contactar conmigo):</h3>
 <p align="left">
