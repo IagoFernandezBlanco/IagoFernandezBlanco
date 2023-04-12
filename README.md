@@ -11,7 +11,7 @@
 
 - 📫 Para contactar conmigo:
   Correo principal: **ifernandezblanco08@outlook.com** 
-  Correo secundario: **anachain1998@gmail.com**
+  <p>Correo secundario: **anachain1998@gmail.com** </p>
 
 <h3 align="left">Contacta conmigo (Añadiendo más herramientas para contactar conmigo):</h3>
 <p align="left">
